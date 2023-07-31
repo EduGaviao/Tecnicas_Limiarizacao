@@ -4,9 +4,9 @@ O propósito deste trabalho é realizar experimentos com métodos de limiarizaç
 Trabalho apresentado na disciplina de Processamento Digital de Imagens, lecionada no Universidade Estadual de Campinas no período letivo de 2023/1.
 
 ## Integrantes 
-| Nome | RA |
-|--|--|
-|Eduarda Simonis Gavião | 1879472 |
+| Nome |
+|--|
+|Eduarda Simonis Gavião |
 
  
  ## Procedimento para clonar o repositório
